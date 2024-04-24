@@ -1,0 +1,11 @@
+{
+  "name": "ducen-packages",
+  "version": "0.0.0",
+  "description": "Reusable packages of configuration",
+  "scripts": {},
+  "workspaces": [
+    "/*"
+  ],
+  "author": "Jose Veliz (Duccem)",
+  "license": "ISC"
+}
