@@ -1,5 +1,5 @@
 {
-  "name": "@ducen/request-logger",
+  "name": "@ducen/http-logger",
   "version": "0.0.1",
   "description": "Middleware to express, to log the request and response data",
 	"main": "dist/index.js",
