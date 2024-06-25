@@ -4,7 +4,7 @@
   "description": "Reusable packages of configuration",
   "scripts": {},
   "workspaces": [
-    "/*"
+    "src/*"
   ],
   "author": "Jose Veliz (Duccem)",
   "license": "ISC"
